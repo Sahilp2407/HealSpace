@@ -100,8 +100,8 @@ Feel free to use, modify, and share it!
 ## 🧑‍💻 Author  
 
 Developed by **Sahil Pandey**  
-- 🌐 [GitHub]([https://github.com/yourusername](https://github.com/Sahilp2407))  
-- 💼 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/sahil-pandey-7508b6317/))  
+- 🌐 [GitHub]((https://github.com/Sahilp2407))  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/sahil-pandey-7508b6317/))  
 
 ---
 
